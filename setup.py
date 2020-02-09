@@ -9,9 +9,9 @@ MAINTAINER = 'Quantamatics Inc'
 AUTHOR = 'Quantamatics Inc'
 AUTHOR_EMAIL = 'NA'
 URL = "https://github.com/Quantamatics/QPublic"
-LICENSE = "NA"
+LICENSE = "MIT"
 
-VERSION = "0.0.10"
+VERSION = "0.1.08b"
 
 
 packages = ['QPublic']
