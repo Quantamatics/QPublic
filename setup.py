@@ -14,7 +14,7 @@ LICENSE = "MIT"
 VERSION = "0.1.08b"
 
 
-packages = ['QPublic']
+packages = ['QPublic','QPublic/MarketData','QPublic/MarketData/Bloomberg']
 package_data = {'QPublic': ['*']}
 
 classifiers = ['Development Status :: 4 - Beta',
